@@ -1,0 +1,76 @@
+{
+  "configs": [
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "维也纳1.0",
+      "server": "79.133.33.185",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "香港A1.0",
+      "server": "124.248.220.134",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "香港B1.0",
+      "server": "123.103.252.216",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "香港C1.0",
+      "server": "123.103.252.145",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "荷兰0.5",
+      "server": "185.214.71.149",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "俄罗斯1.0",
+      "server": "92.223.80.144",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "US1.0",
+      "server": "107.150.8.242",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "韩国1.0",
+      "server": "92.38.134.68",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "新加坡1.0",
+      "server": "172.104.40.5",
+      "server_port": 3230
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "h962464544",
+      "remarks": "",
+      "server": "",
+      "server_port": 3230
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
